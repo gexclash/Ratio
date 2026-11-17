@@ -39,7 +39,7 @@ A minimal, beautiful tool for working with aspect ratios and dimensions. Drag to
 No build step, no dependencies — just open the file.
 
 ```bash
-git clone https://github.com/znatgost/ratio
+git clone https://github.com/gexclash/ratio
 cd ratio
 open index.html
 ```
